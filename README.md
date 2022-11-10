@@ -1,13 +1,20 @@
-This is a sample Web Application to use during Continuous Integration demos.
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin
 # Build Instruction
 
 
 ```
-mvn3 clean package
+mvn clean package
+and build the instruction .
 ```
 
 # Deploy instruction
+<<<<<<< HEAD
+=======
 
-Deploy ```target/WebApp.war``` on Tomcat
- 
+Deploy ```target/WebApp.war``` on Tomcat properly for better experience.
+>>>>>>> origin
+
